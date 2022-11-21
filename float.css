@@ -1,0 +1,22 @@
+section {
+    box-sizing: border-box;
+    border: 1px solid blue;
+    width: 100%;
+    float: left;
+ }
+  
+  div {
+    margin: 5px;
+    width: 100px;
+    height: 400px;
+  }
+  
+  .left {
+    float: left;
+    background: pink;
+  }
+  
+  .right {
+    float: right;
+    background: cyan;
+  }
